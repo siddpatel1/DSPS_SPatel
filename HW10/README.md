@@ -13,4 +13,4 @@ the layers for the digit recognition where we are doing classification, but hard
 The easiest part of this homework was compiling/running the model, and reading the model summary to get a better idea of what the model is.
 
 ### 4:
-One new thing I learned was how complicated layers are for neural networks, and it is dependent and different based on what type of problem you are trying to solve.
+One new thing I learned was how complicated layers are for neural networks, and it is dependent and different, based on the type of problem you are trying to solve.
